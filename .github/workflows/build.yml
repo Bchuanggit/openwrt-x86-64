@@ -8,8 +8,8 @@ on:
       - ".github/workflows/build.yml"
 
 env:
-  FIRMWARE_URL: "https://downloads.openwrt.org/releases/19.07.2/targets/x86/64/openwrt-19.07.2-x86-64-generic-rootfs.tar.gz"
-  REPOSITORY: crazygit/openwrt-x86-64
+  FIRMWARE_URL: "https://github.com/Bchuanggit/sshaction/suites/1217497183/artifacts/18191641"
+  REPOSITORY: Bchuanggit/sshaction
   TAG: 19.07.2
 
 jobs:
