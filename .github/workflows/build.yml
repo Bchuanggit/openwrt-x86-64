@@ -9,7 +9,7 @@ on:
 
 env:
   FIRMWARE_URL: "https://github.com/Bchuanggit/sshaction/suites/1217497183/artifacts/18191641"
-  REPOSITORY: Bchuanggit/sshaction
+  REPOSITORY: Bchuanggit/docker
   TAG: 19.07.2
 
 jobs:
